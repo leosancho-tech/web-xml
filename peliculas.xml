@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="peliculas.xsl"?>
+<DATA>
+
+	<ROW>
+		<id_pelicula>1</id_pelicula>
+		<titulo>Inception</titulo>
+		<anio>2010</anio>
+		<duracion>148</duracion>
+		<id_director>1</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>2</id_pelicula>
+		<titulo>Pulp Fiction</titulo>
+		<anio>1994</anio>
+		<duracion>154</duracion>
+		<id_director>2</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>3</id_pelicula>
+		<titulo>Dolor y gloria</titulo>
+		<anio>2019</anio>
+		<duracion>113</duracion>
+		<id_director>3</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>4</id_pelicula>
+		<titulo>Dune: Part Two</titulo>
+		<anio>2024</anio>
+		<duracion>166</duracion>
+		<id_director>2</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>5</id_pelicula>
+		<titulo>Barbie</titulo>
+		<anio>2023</anio>
+		<duracion>114</duracion>
+		<id_director>1</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>6</id_pelicula>
+		<titulo>Mission: Impossible - Dead Reckoning Part One</titulo>
+		<anio>2023</anio>
+		<duracion>163</duracion>
+		<id_director>1</id_director>
+	</ROW>
+
+	<ROW>
+		<id_pelicula>7</id_pelicula>
+		<titulo>Killers of the Flower Moon</titulo>
+		<anio>2023</anio>
+		<duracion>206</duracion>
+		<id_director>2</id_director>
+	</ROW>
+</DATA>
